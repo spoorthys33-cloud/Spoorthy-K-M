@@ -1,4 +1,4 @@
- Facial Recognition System
+Facial Recognition System
 
  What it Does
 This is a Python application that uses a camera to recognize people. It detects a human face, analyzes its unique features, and matches it against a database to verify a user's identity.
